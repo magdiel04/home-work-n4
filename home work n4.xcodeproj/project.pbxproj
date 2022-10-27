@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		AF2FECDF290A925500BDF73A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2FECDE290A925500BDF73A /* main.swift */; };
+		AF2FECF2290A954200BDF73A /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2FECF1290A954200BDF73A /* Product.swift */; };
+		AF2FECF4290A954D00BDF73A /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2FECF3290A954D00BDF73A /* Client.swift */; };
+		AF2FECF6290A955800BDF73A /* Cassier.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2FECF5290A955800BDF73A /* Cassier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		AF2FECDB290A925500BDF73A /* home work n4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "home work n4"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF2FECDE290A925500BDF73A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AF2FECF1290A954200BDF73A /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		AF2FECF3290A954D00BDF73A /* Client.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Client.swift; sourceTree = "<group>"; };
+		AF2FECF5290A955800BDF73A /* Cassier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cassier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				AF2FECDE290A925500BDF73A /* main.swift */,
+				AF2FECF1290A954200BDF73A /* Product.swift */,
+				AF2FECF3290A954D00BDF73A /* Client.swift */,
+				AF2FECF5290A955800BDF73A /* Cassier.swift */,
 			);
 			path = "home work n4";
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF2FECDF290A925500BDF73A /* main.swift in Sources */,
+				AF2FECF2290A954200BDF73A /* Product.swift in Sources */,
+				AF2FECF6290A955800BDF73A /* Cassier.swift in Sources */,
+				AF2FECF4290A954D00BDF73A /* Client.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
